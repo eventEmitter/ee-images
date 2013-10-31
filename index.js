@@ -1,4 +1,6 @@
+	
+
+	require( "ee-error" );
 
 
-
-	module.exports = require( "./lib/Image" );
+	module.exports = require( "./lib/Images" );

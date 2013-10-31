@@ -1,6 +1,6 @@
 {
       "name"                        : "ee-image"
-    , "description"                 : "image resizing / cropping / rotating with face detection"
+    , "description"                 : "smart, smooth & fast image resizing and cropping with face detection"
     , "version"                     : "0.1.0"
     , "homepage"                    : "https://github.com/eventEmitter/ee-image"
     , "author"                      : "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
@@ -21,11 +21,16 @@
         , "ee-event-emitter"        : "*"
         , "ee-types"                : "*"
         , "ee-log"                  : "*"
+        , "ee-error"                : "*"
         , "ee-project"              : "*"
+        , "ee-options"              : "*"
+        , "ee-resource-pool"        : ">=0.1.4"
+        , "picha"                   : "0.3.0"
+        , "opencv"                  : "0.3.1"
     }
     , "devDependencies": {
           "node-gyp"                : "*"
     }
     , "optionalDependencies": {}
-    , "private"                     : true
+    , "keywords": [ "image", "cropping", "resizing", "cubic", "lanczos", "face", "face-detection", "jpeg", "png" ]
 }
