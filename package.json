@@ -25,8 +25,8 @@
         , "ee-project"              : "*"
         , "ee-options"              : "*"
         , "ee-resource-pool"        : ">=0.1.4"
-        , "picha"                   : "0.3.0"
-        , "opencv"                  : "0.3.1"
+        , "picha"                   : "0.4.10"
+        , "opencv"                  : "6.0.0"
     }
     , "devDependencies": {
           "node-gyp"                : "*"
