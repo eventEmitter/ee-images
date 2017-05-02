@@ -1,5 +1,7 @@
 # ee-image
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/ee-images.svg)](https://greenkeeper.io/)
+
 not yet functional.. will be ready tomorrow!
 
 based on picha & opencv
